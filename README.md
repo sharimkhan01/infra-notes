@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Infra Notes 2025 (By Sharim Khan)
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
