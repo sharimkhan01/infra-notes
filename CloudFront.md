@@ -1,3 +1,8 @@
+---
+title: Cloud Front
+layout: default
+---
+
 # 3rd April 2025
 
 Cloud front
