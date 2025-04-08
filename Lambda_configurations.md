@@ -1,3 +1,8 @@
+---
+title: Lambda Configurations
+layout: default
+---
+
 7th April 2025
 
 1. Provisioned concurrency configuration
